@@ -1,5 +1,5 @@
--al
-        package com.coolweather.android;
+
+package com.coolweather.android;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
